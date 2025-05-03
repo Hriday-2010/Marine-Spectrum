@@ -51,5 +51,3 @@ This framework will provide a **sustainable approach** to underwater acoustics, 
 
 ---  
 
-This version improves clarity, flow, and readability while maintaining technical precision. Let me know if you'd like any further refinements!
-
